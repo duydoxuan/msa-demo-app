@@ -24,3 +24,5 @@ Stay tuned form k8s-101 & k8s 102 workshops
 #### Running the stack in `docker` or `docker swarm` ?
 * docker -> `docker-compose up -d`
 * swarm -> `docker stack deploy --compose-file docker-compose.yml demostack`
+
+https://www.slideshare.net/hagzag/helm-intro
